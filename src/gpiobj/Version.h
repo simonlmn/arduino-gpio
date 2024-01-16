@@ -1,1 +1,1 @@
-#define GPIOBJ_VERSION 0.2.0
+#define GPIOBJ_VERSION 0.3.0
